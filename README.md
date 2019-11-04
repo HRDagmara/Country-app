@@ -1,4 +1,4 @@
-Country app
+Country app for searching, deleting and show detailed information after clicking. It also allows filtering by continent.
 
 Technology and solutions:
 * Redux
